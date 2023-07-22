@@ -5,8 +5,8 @@ on:
   pull_request_target:
     types:
       - opened
-    branches:
-      - 'pahud-patch-1'
+#     branches:
+#       - 'pahud-patch-1'
 
 jobs:
   approve:
